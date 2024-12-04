@@ -1,0 +1,13 @@
+{
+  "name": "Playwright-test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/levselickiy/Playwright-test-project",
+  "author": "vm-lselickiy <lselickiy@visiblemagic.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1"
+  },
+  "scripts": {}
+}
